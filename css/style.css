@@ -49,6 +49,7 @@ p{
     /*float: left;*/
     /*list-style: none;*/
     display: inline-block;
+    margin-bottom: 20px;
 }
 .menu ul li a{
     text-decoration: none;
@@ -155,6 +156,9 @@ p{
 #contact-us{
     padding: 100px 0;
 
+}
+form{
+    clear: both;
 }
 .contact-top{
     color: #8d8c8c;
