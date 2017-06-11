@@ -39,6 +39,7 @@ p{
 }
 .menu{
     float: right;
+    margin-top: 40px;
 }
 .menu ul{
     margin: 0;
@@ -145,6 +146,7 @@ p{
     width: 25%;
     float: left;
     padding-right: 15px;
+    margin-bottom: 20px;
 }
 .services img{
     width: 100%;
